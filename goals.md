@@ -5,4 +5,5 @@
 - 每天坚持背单词
 - 瘦20斤
 - 彻底学会github以及gitee的相关操作
+- 完成400tLeetCode
 - to be continue
